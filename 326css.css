@@ -1,0 +1,129 @@
+body
+{
+background-image: url(Night-sky1.jpg);
+}
+ul
+{
+  list-style-type: none;
+  float: right;
+  margin-right: 200px;
+ margin-top: 50px;
+ background-color: #b4b4b4;
+}
+li
+{
+  
+   color: yellow;
+   float: right;
+  
+}
+li a
+{
+color: red;
+text-decoration:none;
+padding:10px 26px;
+margin:20px;
+text-aligh: center;
+font-size: 30px;
+}
+li a:hover
+{
+color: yellow;
+background-color: green;
+}
+.but
+{
+   display: block;
+   background-color: yellow;
+   color: dodgerblue;
+   float: right;
+   font-size: 30px;
+   margin-top: 10px;
+}
+a
+{
+text-decoration:none;
+}
+p a:hover
+{
+color: blue;
+background-color: red;
+}
+table
+{
+color: tomato;
+padding: 50px;
+margin-top: 30px;
+}
+th
+{
+float: left;
+font-size: 30px;
+border: 1px solid #ffffff
+}
+h1
+{
+color: yellow;
+padding: 20px;
+font-size: 60px;
+}
+
+h3	
+{
+padding: 40px;
+color: yellow;
+font-size: 30px;
+}
+.butt
+{
+   display: block;
+   background-color: violet;
+   color: yellow;
+   float: right;
+   font-size: 30px;
+   margin-right: 510px;
+
+}
+.butt a:hover
+{
+color: red;
+background-color: dodgerblue;
+}
+.buti
+{
+   display: block;
+   background-color: violet;
+   color: yellow;
+   float: right;
+   font-size: 30px;
+   margin-right: 110px;
+}
+.buti a:hover
+{
+color: red;
+background-color: dodgerblue;
+}
+
+
+.foot
+{
+background-color:red;
+margin-left:10px;
+margin-right:5px;
+margin-top:200px;
+margin-bottom:20px;
+}
+.gallery {
+  margin: 5px;
+  padding: 50px;
+  width: 260px;
+  float: left;
+}
+.des
+{
+color: #ffffff;
+font-size: 30px;
+padding: 40px;
+margin-right: 10px;
+}
+  
